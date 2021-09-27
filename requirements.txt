@@ -1,4 +1,0 @@
-requests
-terminaltables
-prompt_toolkit
-python3
