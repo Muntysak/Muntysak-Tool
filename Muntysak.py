@@ -134,7 +134,6 @@ def generate():
 	print(colors.OKGREEN+colors.BOLD+"""
     [1] Python Reverse Shell
     [2] Linux Reverse Shell
-    [3] Windows Reverse Shell **Coming Soon*
 		"""+colors.END)
 	e = input("Enter: ")
 	ask = input("Enter your IP address: ")
