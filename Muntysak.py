@@ -42,8 +42,6 @@ def console_list():
 	console_data = [
 	['Command', 'Description'],
 	['linpeas', 'Automatically run linpeas and saves it to linlog.txt'],
-	['download', 'Downloads a file from remote machine'],
-	['upload', 'Uploads a local file on to a remote machine'],
 	]
 	tooble = SingleTable(console_data)
 	print(colors.FAIL+colors.BOLD+tooble.table+colors.END)
